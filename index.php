@@ -107,6 +107,7 @@
                     echo "</tr>";
                 }
                 ?>
+            </tbody>
         </table>
     </div>
     </form>
